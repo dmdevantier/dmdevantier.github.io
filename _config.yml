@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Danielle DeVantier
 
 # Short bio or description (displayed in the header)
-description: A description of you
+description: I am a masters student at Northeastern University studying Public History. I spend my free time crocheting and reading romance novels.
 
 # URL of your avatar or profile pic
-avatar: https://raw.githubusercontent.com/[yourusername]/[yourusername].github.io/master/images/[filename].jpg
+avatar: https://raw.githubusercontent.com/[dmdevantier]/[dmdevantier].github.io/master/images/[5237 bio headshot picture .jpeg].jpg
 
 #
 # Flags below are optional
@@ -17,16 +17,10 @@ avatar: https://raw.githubusercontent.com/[yourusername]/[yourusername].github.i
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
   github: 
-  instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
+  rss: # just type anything here for a working RSS icon 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
